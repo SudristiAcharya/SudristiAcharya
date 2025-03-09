@@ -5,7 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Sudristi Acharya</h1>
 <h3 align="center">A passionate Business/Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudristiacharya&label=Profile%20views&color=0e75b6&style=flat" alt="sudristiacharya" /> </p>
 
@@ -22,6 +21,8 @@
 - 📫 How to reach me **sudristi1april@gmail.com**
 
 - ⚡ Fun fact **I am a quick learner**
+
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
